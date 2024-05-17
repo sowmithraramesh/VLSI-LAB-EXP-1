@@ -1,4 +1,4 @@
-
+# SIMULATION OF LOGIC GATES,ADDERS AND SUBTRACTORS
 ## AIM: 
      To simulate and synthesis Logic Gates,Adders and Subtractor using Xilinx ISE.
 
