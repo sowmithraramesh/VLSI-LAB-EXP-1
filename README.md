@@ -19,9 +19,9 @@
 ##### STEP:12 On the board, by giving required input, the LEDs starts to glow light, indicating the output.
 
 
-## Logic Gates:
+## LOGIC GATES:
 
-### Logic Diagram:
+### LOGIC DIAGRAM:
 ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/ee17970c-3ac9-4603-881b-88e2825f41a4)
 
 ### VERILOG CODE:
@@ -78,7 +78,7 @@ endmodule
 ### OUTPUT:
 ![image](https://github.com/sowmithraramesh/VLSI-LAB-EXP-1/assets/166893766/a74a92a0-2b99-4517-bffe-547b21f4c88e)
 
-## Half Subtractor:
+## HALF SUBRACTOR:
 
 ### LOGIC DIAGRAM:
 ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/731470b7-eb4e-49f8-8bb7-2994052a7184)
